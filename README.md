@@ -1,2 +1,2 @@
 # binary-tree
-routine implementation for creating updating binary tree
+routine implementation for creating, updating binary tree
